@@ -8,3 +8,4 @@ app.get('/',function(reg, res){//Что будет происходить при
 app.listen(3010, function(){ //Назначаем порт
     console.log('API app started'); // Что выведется в консоли при запуске сервера
 })
+ 
